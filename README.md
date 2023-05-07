@@ -31,7 +31,7 @@ while((tmp = bf.readLine())!= null){
   str += tmp + "\n";
 }
 
-// 정수 입력 (기본적으로 String으로 읽어오기 때문에 형 변환 필요)
+// 정수 입력 (기본적으로 String으로 읽어오기 때문에 형 변환 필요) 
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 int a = "";
 a = Integer.parseInt(br.readLine());
