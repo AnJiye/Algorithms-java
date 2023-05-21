@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 /**
- * 5월 1주차_자료구조2합
+ * 5월 1주차_자료구조2
  * 2075번: N번째 큰 수
  * 우선순위큐
  * https://www.acmicpc.net/problem/2075

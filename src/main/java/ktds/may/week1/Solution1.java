@@ -18,7 +18,7 @@ public class Solution1 {
     String[] num = br.readLine().split(" ");
     int n = Integer.parseInt(num[0]);
     int m = Integer.parseInt(num[1]);
-    // 2. 집함 S (중복안되니까 배열말고 집합으로 해도 됨... 아마 자료구조 문제인 거 보면 HashMap을 사용하는 게 출제의도에 맞지 않을까..하는...)
+    // 2. 집합 S (중복안되니까 배열말고 집합으로 해도 됨... 아마 자료구조 문제인 거 보면 HashMap을 사용하는 게 출제의도에 맞지 않을까..하는...)
     String[] s = new String[n];
     for (int i = 0; i < n; i++) {
       s[i] = br.readLine();
