@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 6월 1주차
  * 68645번: 월간 코드 챌린지 시즌1 > 삼각 달팽이
- * 피보나치 수
  * https://school.programmers.co.kr/learn/courses/30/lessons/68645
  */
 public class Solution1 {
